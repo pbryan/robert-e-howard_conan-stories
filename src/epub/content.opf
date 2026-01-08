@@ -37,6 +37,8 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta id="collection-1" property="belongs-to-collection">Conan the Barbarian</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Robert E. Howard’s short stories featuring Conan the Barbarian.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
