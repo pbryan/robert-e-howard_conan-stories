@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="cc: http://creativecommons.org/ns, se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/robert-e-howard/conan-stories</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-01-10T19:08:16Z</dc:date>
+		<meta property="dcterms:modified">2026-01-10T19:08:16Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,8 +42,8 @@
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Robert E. Howard’s short stories featuring Conan the Barbarian.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Conan, the Cimmerian barbarian, romps across the pages of &lt;a href="https://standardebooks.org/ebooks/robert-e-howard"&gt;Robert &lt;abbr&gt;E.&lt;/abbr&gt; Howard’s&lt;/a&gt; Hyborian adventures, slicing down enemy after enemy and trying not to fall too hard for a succession of ladies in need of rescue. Although very much a product of the pulp fantasy magazines of the 1930s, Conan has surpassed his contemporaries to become the quintessential barbarian of the fantasy genre: the muscle-bound and instinct-led hero, always willing to fight his way out of any fix.&lt;/p&gt;
-			&lt;p&gt;Collected here are Howard’s public domain Conan short stories, as well as a history of Hyboria that Howard wrote as a guide for himself to write from. Nearly all of Conan’s adventures were first published in &lt;i&gt;Weird Tales&lt;/i&gt; magazine and have gone on to spawn multiple licensed and unlicensed sequels, comics, films and games.&lt;/p&gt;
+			&lt;p&gt;Conan, the Cimmerian barbarian, romps across &lt;a href="https://standardebooks.org/ebooks/robert-e-howard"&gt;Robert E. Howard’s&lt;/a&gt; world of Hyboria, slicing down enemy after enemy and trying not to fall &lt;em&gt;too&lt;/em&gt; hard for a succession of ladies in need of rescue. Although very much a product of the pulp fantasy magazines of the 1930s, Conan has surpassed his contemporaries to become the quintessential barbarian of the fantasy genre: the muscle-bound and instinct-led hero, always willing to fight his way out of any fix.&lt;/p&gt;
+			&lt;p&gt;Collected here are Howard’s Conan short stories that are in the U.S. public domain, as well as a history of Hyboria that Howard wrote as a writing guide. Nearly all of Conan’s adventures were first published in &lt;i&gt;Weird Tales&lt;/i&gt; magazine.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<!-- Shadows in the Moonlight (Weird Tales, April 1934) -->
@@ -81,8 +81,8 @@
 		<!-- The Hyborian Age (The Phantagraph, February, August, and October-November 1936) -->
 		<dc:source>https://www.gutenberg.org/ebooks/42182</dc:source>
 		<!-- scans not yet found -->
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">176063</meta>
+		<meta property="se:reading-ease.flesch">72.26</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/robert-e-howard_conan-stories</meta>
 		<dc:creator id="author">Robert E. Howard</dc:creator>
 		<meta property="file-as" refines="#author">Howard, Robert E.</meta>
